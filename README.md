@@ -15,18 +15,18 @@
 
 ##Proceso
 
-  Obtener valor weekday
-  Obtener valor vacation
+ - Obtener valor weekday
+ - Obtener valor vacation
 
-  Si vacation es verdadero
-        Mostrar 1 //si Dormimos
-  Sino 
+ - Si vacation es verdadero
+        - Mostrar 1 //si Dormimos
+ - Sino 
         Si weekday es verdadero
-          Mostrar 1 //No dormimos
-        Si no 
-          Mostrar 2 //Dormimos
-          Fin si
-  Fin si
+         - Mostrar 1 //No dormimos
+       - Si no 
+          - Mostrar 2 //Dormimos
+          - Fin si
+ - Fin si
 
 ## Mostrar Resultados
 
